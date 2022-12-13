@@ -1,0 +1,17 @@
+const event_ic_logo = "const event_ic_logo";
+const event_ic_walk_through1 = "images/eventApp/pageview1.jpg";
+const event_ic_walk_through2 = "images/eventApp/pageview2.jpg";
+const event_ic_walk_through3 = "images/eventApp/pageview3.jpg";
+const event_ic_festival = "images/eventApp/festival.jpg";
+const event_ic_facebook = "images/eventApp/event_ic_facebook.png";
+const event_ic_london = "images/eventApp/london.jpg";
+const event_ic_newYork = "images/eventApp/newyork.jpg";
+const event_ic_paris = "images/eventApp/paris.jpg";
+const event_ic_tokyo = "images/eventApp/tokyo.jpg";
+const event_ic_music = "images/eventApp/music.jpeg";
+const event_ic_food = "images/eventApp/food.jpg";
+const event_ic_cinema = "images/eventApp/cinema.jpg";
+const event_ic_visa = "images/eventApp/visa.png";
+const event_ic_master = "images/eventApp/paypal.png";
+const event_ic_amex = "images/eventApp/amex.png";
+const event_ic_map = "images/eventApp/map.jpg";
